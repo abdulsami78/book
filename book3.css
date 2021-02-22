@@ -1,0 +1,74 @@
+body{
+     background: yellowgreen;
+     background-image: url("bg1.jpg");
+      background-size: auto;
+
+}
+
+.A{ 
+    
+    width: 500px;
+    height: 500px;
+    margin: 200px auto;
+    background-image: url("cprogramming.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#ffo;
+    border:radius 25px;
+    
+
+}
+
+
+.b{
+    width: 500px;
+    height: 400px;
+    margin: 200px auto;
+    background-image: url("os.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffo;
+    border:radius 25px;
+    
+}
+
+
+.c{
+    width: 500px;
+    height: 500px;
+    margin: 200px auto;
+    background-image: url("coa2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffo;
+    border:radius 25px;
+
+}
+
+
+.d{ 
+    width: 500px;
+    height: 500px;
+    margin: 200px auto;
+    background-image: url("dm2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffo;
+    border:radius 25px;
+}
+
+
+.e{
+    width: 500px;
+    height: 500px;
+    margin: 200px auto;
+    background-image: url("ds3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffo;
+    border:radius 25px;
+   
+
+
+}
+
